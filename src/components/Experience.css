@@ -1,0 +1,35 @@
+.experience-section {
+    padding: 4rem 2rem;
+    background-color: #f9f9f9;
+  }
+  
+  .experience-section h2 {
+    font-size: 2rem;
+    color: #1d4ed8;
+    margin-bottom: 2rem;
+  }
+  
+  .job {
+    margin-bottom: 2rem;
+  }
+  
+  .job h3 {
+    font-size: 1.25rem;
+    color: #222;
+    margin-bottom: 0.3rem;
+  }
+  
+  .duration {
+    font-size: 0.9rem;
+    color: #666;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .job ul {
+    padding-left: 1.5rem;
+    color: #444;
+    line-height: 1.6;
+    list-style-type: disc;
+  }
+  

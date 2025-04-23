@@ -1,0 +1,19 @@
+.about-section {
+    padding: 4rem 2rem;
+    background-color: #ffffff;
+  }
+  
+  .about-section h2 {
+    font-size: 2rem;
+    color: #1d4ed8;
+    margin-bottom: 1rem;
+  }
+  
+  .about-section p {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+    color: #444;
+    max-width: 800px;
+  }
+  

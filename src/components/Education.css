@@ -1,0 +1,33 @@
+.education-section {
+    padding: 4rem 2rem;
+    background-color: #ffffff;
+  }
+  
+  .education-section h2 {
+    font-size: 2rem;
+    color: #1d4ed8;
+    margin-bottom: 2rem;
+  }
+  
+  .edu-entry {
+    margin-bottom: 2rem;
+  }
+  
+  .edu-entry h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.3rem;
+    color: #222;
+  }
+  
+  .degree {
+    font-size: 1rem;
+    color: #555;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .edu-entry p {
+    color: #444;
+    line-height: 1.6;
+  }
+  

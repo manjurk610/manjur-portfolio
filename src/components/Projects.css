@@ -1,0 +1,38 @@
+.projects-section {
+    padding: 4rem 2rem;
+    background-color: #ffffff;
+  }
+  
+  .projects-section h2 {
+    font-size: 2rem;
+    color: #1d4ed8;
+    margin-bottom: 2rem;
+  }
+  
+  .project-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+  
+  .project-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    flex: 1;
+    min-width: 280px;
+  }
+  
+  .project-card h3 {
+    font-size: 1.3rem;
+    color: #0f172a;
+    margin-bottom: 0.5rem;
+  }
+  
+  .project-card p {
+    color: #444;
+    line-height: 1.6;
+  }
+  
